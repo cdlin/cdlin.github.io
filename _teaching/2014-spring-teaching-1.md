@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Baylor University, Economics Department"
-date: Fall 2013 to Spring 2014
+date: 2013-08-01
 location: "Waco, TX"
 ---
 

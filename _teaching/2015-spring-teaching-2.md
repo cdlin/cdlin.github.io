@@ -4,7 +4,7 @@ collection: teaching
 type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
 venue: "Cornell University, Economics Department"
-date: Summer 2018
+date: 2018-07-01
 location: "Ithaca, NY"
 ---
 
