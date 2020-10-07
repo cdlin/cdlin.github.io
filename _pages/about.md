@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm a PhD student in the Department of Economics at Cornell University. I'm currently a Graduate Research Assistant in the [Labor Dynamics Institute](https://www.ilr.cornell.edu/labor-dynamics-institute).
+I'm a Statistican at the U.S. Census Bureau.
 
-Prior to attending Cornell, I was a research analyst at the [Federal Reserve Bank of Dallas](https://www.dallasfed.org/research.aspx) and a research fellow at the [Inter-American Development Bank](https://www.iadb.org/en).
+Prior to the Census, I was a Graduate Research Assistant in the [Labor Dynamics Institute](https://www.ilr.cornell.edu/labor-dynamics-institute) , a research analyst at the [Federal Reserve Bank of Dallas](https://www.dallasfed.org/research.aspx), and a research fellow at the [Inter-American Development Bank](https://www.iadb.org/en).
 
