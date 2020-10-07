@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "C. Daniel Lin"
   avatar           : "profile.png"
-  bio              : "PhD student in the Department of Economics at Cornell University"
-  location         : "Ithaca, NY"
+  bio              : "Statistician at US Census Bureau"
+  location         : "Washington, DC"
   employer         :
   #googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "cdl77@cornell.edu"
+  email            : "cc.daniel.lin@gmail.com"
   #researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
